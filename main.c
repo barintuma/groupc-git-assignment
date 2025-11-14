@@ -1,8 +1,9 @@
+/*Author: Arisiima Daisy
+*/
 #include <stdio.h>
-#include <stdlib.h>
-
 int main()
 {
-    printf("Hello from Ian-debug!\n");
+    printf("how are u DAISY");
+    
     return 0;
 }
