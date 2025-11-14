@@ -1,9 +1,8 @@
-// AUTHOR: Aaine Barintuma
-
 #include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-    printf("hello Aaine from group c");
+    printf("Hello from Ian-debug!\n");
     return 0;
 }
