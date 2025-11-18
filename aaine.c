@@ -3,7 +3,8 @@
 #include <stdio.h>
 int main()
 {
-    printf("how are u DAISY");
+    printf("hello Aaine from group c");
     
     return 0;
 }
+
